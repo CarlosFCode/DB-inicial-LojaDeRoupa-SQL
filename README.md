@@ -9,8 +9,8 @@ Projeto de banco de dados para uma loja de roupas fictícia, utilizando **MySQL*
   <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
 </div>
 
-- **MySQL**: Banco de dados relacional utilizado para armazenar os dados da loja.
-- **SQL**: Linguagem utilizada para manipulação dos dados no banco.
+- **MySQL**
+- **SQL**
 
 ## 📋 Funcionalidades
 
