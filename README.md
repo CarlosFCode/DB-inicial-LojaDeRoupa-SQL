@@ -19,5 +19,6 @@ Projeto de banco de dados para uma loja de roupas fictícia, utilizando **MySQL*
 - **Registro de Pedidos**: Associa clientes aos produtos comprados, com informações sobre a quantidade e o total gasto.
 - **Consultas**: Permite consultar o total de vendas por cliente e por produto.
 
+Este projeto foi criado como parte do meu estudo de **MySQL** e **SQL**. O objetivo é **praticar** o uso de banco de dados para gerenciar informações de uma loja ***fictícia***.
 
 ---
